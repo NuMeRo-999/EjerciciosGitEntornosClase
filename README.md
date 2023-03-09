@@ -2,6 +2,8 @@
 [![Gitter](https://badges.gitter.im/powerlevel10k/community.svg)](
   https://gitter.im/powerlevel10k/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
+  Modificion
+
 Powerlevel10k is a theme for Zsh. It emphasizes [speed](#uncompromising-performance),
 [flexibility](#extremely-customizable) and [out-of-the-box experience](#configuration-wizard).
 
